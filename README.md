@@ -59,7 +59,7 @@ Site html sobre a bjork como exercício de pi
 <img src="https://upload.wikimedia.org/wikipedia/pt/2/2e/Utopia_Bj%C3%B6rk.jpg" alt="capa utopia" width="100px"> <br>
 
 <b>Fossora (2022)</b>  -  Data de lançamento prevista para o dia 30/09.<br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFup4HerdigP31UnhBOr3pAB8xSS4paO4C9QhYlM7p8oCNdVayZPCuHprFTWteA0b9VPKYi65yB6BI9blymk8i9ftuAgvCXagWOPgm9M4WW-EGjJgybpwg9EMoQjtm7Q_XntPcwSYI24_41k9Ldbk4FXC47ye0bh8IH1mxCwKFqrLM7JA0rILADtitRw/s16000/bjork-capa-album-fossora.jpg" width="100px"> <br>
+<img src="https://static.stereogum.com/uploads/2022/08/Bjork-Fossora-1661951055.jpeg" width="100px"> <br>
 </div>
 </body>
 </html> 
