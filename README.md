@@ -7,7 +7,7 @@ Site html sobre a bjork como exercício de pi
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ex de pi</title>
+   ex de pi
 </head>
 <body style="background-color:white; color: rgb( 000, 000, 000);">
     <div id="header">
@@ -58,8 +58,8 @@ Site html sobre a bjork como exercício de pi
 <b>Utopia (2017)</b>  -    Utopia tem um conceito oposto ao de seu antecessor, o Vulnicura. A própria Björk disse que Utopia é "o paraíso", enquanto Vulnicura era "o inferno", Björk está cheia de amor novamente". Ela também descreveu o trabalho como seu "álbum Tinder" e declarou que "é sobre essa procura (pela utopia) e também estar apaixonado.<br>
 <img src="https://upload.wikimedia.org/wikipedia/pt/2/2e/Utopia_Bj%C3%B6rk.jpg" alt="capa utopia" width="100px"> <br>
 
-<b>Fossora (2022)</b>  -   Album que ainda não foi lançado, (esta foto não é a capa, mas sim uma amostra da estetica do album).<br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyknGouMBI1mE1uqqelTZe8-CXDgIYhjg-bZltAf3EoiFVdha0bn5QyN35uhp1TcjjqDzV2Ir3V4moQaaDWKFZT9hI5GDe75hXGROuZjWe4ZEltBawEDsOM-Z91b-fIplAI9y24puAoyGH7uKPmPXz4gfLXKRwF9zDLFMUtqPJtaUx6PH1V1m13RDgvQ/s16000/bjork-fossora-1.jpg" width="100px"> <br>
+<b>Fossora (2022)</b>  -  Data de lançamento prevista para o dia 30/09.<br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFup4HerdigP31UnhBOr3pAB8xSS4paO4C9QhYlM7p8oCNdVayZPCuHprFTWteA0b9VPKYi65yB6BI9blymk8i9ftuAgvCXagWOPgm9M4WW-EGjJgybpwg9EMoQjtm7Q_XntPcwSYI24_41k9Ldbk4FXC47ye0bh8IH1mxCwKFqrLM7JA0rILADtitRw/s16000/bjork-capa-album-fossora.jpg" width="100px"> <br>
 </div>
 </body>
 </html> 
